@@ -51,19 +51,34 @@ C言語を中心に、組込みLinux、Raspberry Pi、IoT、ネットワーク�
 
 ## 📂 Projects
 
-### 🌡️ classroom-temp-map
+### 🌡️ 教室の温度ムラ「見える化」
 
-IoTデバイスを使用した温度可視化プロジェクトです。
+職業訓練校でチーム制作したIoTプロジェクトです。
 
-温度センサーから取得した情報を利用し、温度に応じて表示を変化させる仕組みを制作しました。
+ESP32とSHT31を使用して教室内の複数箇所の温度を測定し、
+ESP-NOWでM5Stackへデータを送信しました。
 
-職業訓練校で制作・成果発表を行った作品です。
+M5Stackでは温度データの表示やSDカードへの記録を行い、
+取得したデータをSQLite・Pythonで分析しました。
+
+実際の教室で測定を行い、場所による温度差を可視化・分析し、
+成果発表まで行いました。
+
+**My Role**
+
+- ESP32 + SHT31を使用した温度測定ノード「n2」を担当
+- 実機での動作確認・調整
+- 発表資料の取りまとめ
 
 **使用技術**
-- C言語
+
+- C/C++
+- ESP32
+- SHT31
 - M5Stack
-- 温度センサー
-- IoT
+- ESP-NOW
+- SQLite
+- Python
 - Git / GitHub
 
 👉 [classroom-temp-map](https://github.com/rei-okabayashi/classroom-temp-map)
