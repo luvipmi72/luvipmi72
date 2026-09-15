@@ -1,16 +1,174 @@
-## Hi there 👋
+# M27KYARA
 
-<!--
-**luvipmi72/luvipmi72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
 
-Here are some ideas to get you started:
+職業訓練校でITエンジニアを目指して学習しています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C言語を中心に、組込みLinux、Raspberry Pi、IoT、ネットワークなどを学習中です。
+
+実際に機器を動かしながら、プログラミングや組込み開発の基礎を身につけています。
+
+現在は、ITエンジニアとして実務経験を積みながら、将来的には組込みソフトウェア開発やIoT分野に携わることを目指しています。
+
+
+## 🛠️ Skills
+
+### Programming
+- C
+- 基本的なプログラミング
+  - 変数
+  - 条件分岐
+  - 繰り返し
+  - 関数
+  - 配列
+
+### Embedded / IoT
+- Raspberry Pi
+- 組込みLinux
+- M5Stack
+- センサーを使用したIoT開発
+- LED・スイッチなどのデバイス制御
+
+### Linux
+- Linuxコマンド
+- SSH
+- システムコール
+- デバイスファイル
+- 開発環境の構築
+
+### Network
+- IPアドレス
+- サブネット
+- VLAN
+- DNS / BIND
+- Cisco機器の基本設定
+
+### 3D / Design
+- Blender
+- 3Dモデリング
+- IoT機器の筐体デザイン
+
+
+## 📂 Projects
+
+### 🌡️ classroom-temp-map
+
+IoTデバイスを使用した温度可視化プロジェクトです。
+
+温度センサーから取得した情報を利用し、温度に応じて表示を変化させる仕組みを制作しました。
+
+職業訓練校で制作・成果発表を行った作品です。
+
+**使用技術**
+- C言語
+- M5Stack
+- 温度センサー
+- IoT
+- Git / GitHub
+
+👉 [classroom-temp-map](https://github.com/rei-okabayashi/classroom-temp-map)
+
+
+### 🎮 Raspberry Pi Shooting Game
+
+職業訓練校で制作したシューティングゲームです。
+
+Raspberry Piのディスプレイにゲーム画面を表示し、基板のボタン・スイッチを使用して操作します。
+
+本作品ではAIを活用してプログラムのコード作成を行い、エラーが発生した際の修正とRaspberry Pi実機での動作確認を担当しました。
+
+**使用技術**
+- C言語
+- Raspberry Pi
+- Linux
+- ディスプレイ
+- 基板のボタン・スイッチ
+
+**AI活用について**
+
+AIを活用してコードの大部分を作成しました。
+
+自分では、生成されたコードを使用して実機で動作確認を行い、エラーコードが発生した際に修正する作業を行いました。
+
+AIを活用した開発を通して、エラー内容の確認や修正、実機での動作確認を経験しました。
+
+
+### 📚 School Learning Log
+
+職業訓練校で学習した内容をまとめる学習記録です。
+
+C言語、組込みLinux、Raspberry Pi、ネットワークなどについて、実際に手を動かして学習した内容を整理していく予定です。
+
+**学習内容**
+- C言語
+- Raspberry Pi
+- 組込みLinux
+- Linux
+- ネットワーク
+- DNS / BIND
+- VLAN
+- SSH
+
+
+### 💡 Mood Lamp IoT
+
+BlenderとIoT技術を組み合わせたオリジナル作品として制作予定です。
+
+Blenderで3Dモデルを設計し、センサーやLEDなどを組み合わせたIoTデバイスを目指しています。
+
+現在は企画・設計段階で、今後少しずつ制作を進める予定です。
+
+**予定している技術**
+- Blender
+- IoT
+- センサー
+- LED
+- マイコン
+
+
+## 🤖 AIについて
+
+学習・制作ではAIを開発の補助として活用しています。
+
+コード作成、エラーの原因調査、実装方法の確認などに利用しています。
+
+AIが生成したコードをそのまま使用するだけではなく、実機で動作確認を行い、エラーや問題が発生した場合には原因を確認して修正することを意識しています。
+
+今後はAIを活用しながらも、生成されたコードの内容を自分で理解し、自力で実装・修正できる範囲を増やしていくことを目標としています。
+
+
+## 🎯 Goals
+
+- C言語の理解を深める
+- Linux・組込みLinuxの知識を身につける
+- Raspberry Piを使用した組込み開発の経験を増やす
+- IoT開発に必要な知識を身につける
+- Git / GitHubを使った開発に慣れる
+- Blenderを活用した3Dモデリングに取り組む
+- 実務経験を積み、将来的に組込みソフトウェア・IoT分野の開発に携わる
+
+
+## 📖 Certifications / Learning
+
+- ITパスポート：学習中
+- 応用情報技術者試験：今後の取得を目標
+
+
+## 🌱 Currently Learning
+
+現在、職業訓練校で以下の内容を学習しています。
+
+- C言語
+- 組込みLinux
+- Raspberry Pi
+- ネットワーク
+- IoTデバイス開発
+- Git / GitHub
+- Blender
+
+
+## 📫 GitHub
+
+このGitHubでは、職業訓練校での学習成果や個人制作、技術的な学習記録をまとめています。
+
+学習したことを実際に手を動かして試し、少しずつ制作物として形にしていくことを目標にしています。
