@@ -82,7 +82,7 @@ M5Stackでは温度データの表示やSDカードへの記録を行い、
 - Git / GitHub
 
 👉 [classroom-temp-map](https://github.com/rei-okabayashi/classroom-temp-map)
-
+📄 [発表資料（PDF）](docs/classroom-temp-map発表資料.pdf)
 
 ### 🎮 Raspberry Pi Shooting Game
 
