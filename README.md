@@ -177,7 +177,7 @@ AIが生成したコードをそのまま使用するだけではなく、実機
 
 <p align="center">
   <img src="docs/blender/15-kitchen.png" width="30%">
-  <img src="docs/blender/16-nekotuomi.png" width="30%">
+  <img src="docs/blender/16-nekotoumi.png" width="30%">
   <img src="docs/blender/17-candy.png" width="30%">
 </p>
 
