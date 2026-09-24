@@ -133,18 +133,73 @@ AIが生成したコードをそのまま使用するだけではなく、実機
 
 ## 🎨 Blender
 
-授業外でもBlenderを使用した3Dモデリング・作品制作に取り組んでいます。
+書籍を参考に基本操作やモデリングを学び、さまざまな作品を制作しました。
 
-📚 参考資料
+### 🏠 Pick Up
 
-Blenderの学習では、書籍や資料を参考にしながら3Dモデリングに取り組みました。
+<img src="docs/blender/20-room.png" width="700">
 
-📖 [『ミニチュア作りで楽しくはじめる 10日でBlender 4入門』M design](https://www.amazon.co.jp/dp/4295018392)
+
 
 ## 🖼️ 作品
 
-書籍を参考に制作した3Dモデルです。
+書籍や動画を参考に制作した3Dモデルです。
+
+<p align="center">
+  <img src="docs/blender/01-fryingpan.png" width="30%">
+  <img src="docs/blender/02-ice.png" width="30%">
+  <img src="docs/blender/03-cup.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="docs/blender/03.5-cafeaulait.png" width="30%">
+  <img src="docs/blender/04-desk.png" width="30%">
+  <img src="docs/blender/05-wa.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="docs/blender/06-cafe.png" width="30%">
+  <img src="docs/blender/07-sofa.png" width="30%">
+  <img src="docs/blender/08-sofa.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="docs/blender/09-flower.png" width="30%">
+  <img src="docs/blender/10-kabin.png" width="30%">
+  <img src="docs/blender/11-hanagara.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="docs/blender/12-hanagara.png" width="30%">
+  <img src="docs/blender/13-jelly.png" width="30%">
+  <img src="docs/blender/14-bear.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="docs/blender/15-kitchen.png" width="30%">
+  <img src="docs/blender/16-nekotuomi.png" width="30%">
+  <img src="docs/blender/17-candy.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="docs/blender/18-king.png" width="30%">
+  <img src="docs/blender/19-book.png" width="30%">
+  <img src="docs/blender/21-kikyuu.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="docs/blender/22-shiro.png" width="30%">
+  <img src="docs/blender/23-tako.png" width="30%">
+  <img src="docs/blender/24-kusuri.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="docs/blender/25-kusuris.png" width="30%">
+</p>
 
 
+### 📚 参考資料
+
+📖 [『ミニチュア作りで楽しくはじめる 10日でBlender 4入門』M design](https://www.amazon.co.jp/dp/4295018392)
 
 
