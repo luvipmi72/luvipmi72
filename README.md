@@ -58,23 +58,12 @@ M5Stackでは温度データの表示やSDカードへの記録を行い、
 - Python
 - Git / GitHub
 
-👉 [classroom-temp-map](https://github.com/rei-okabayashi/classroom-temp-map)<br>
-📄 [発表資料（PDF）](docs/classroom-temp-map発表資料.pdf)
+#### 👉 [classroom-temp-map](https://github.com/rei-okabayashi/classroom-temp-map)<br>
+#### 📄 [発表資料（PDF）](docs/classroom-temp-map発表資料.pdf)
 
 
 
-**AI活用について**
 
-AIを活用してコードの大部分を作成しました。
-
-自分では、生成されたコードを使用して実機で動作確認を行い、エラーコードが発生した際に修正する作業を行いました。
-
-AIを活用した開発を通して、エラー内容の確認や修正、実機での動作確認を経験しました。
-
-
-### 💡 Mood Lamp IoT
-
-BlenderとIoT技術を組み合わせたオリジナル作品として制作予定です。
 
 ### 💡 Mood Lamp【制作中】
 
